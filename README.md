@@ -1,12 +1,12 @@
 
 
   <h3 align="center">
-𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌ouad ASSEL'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
+𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐚𝐡𝐦𝐨𝐮𝐝 𝐌𝐚𝐧𝐬𝐲'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅%20𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓%20;𝑨𝒍𝒘𝒂𝒚𝒔%20𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈%20𝒏𝒆𝒘%20𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔;Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅%20𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓%20;𝑨𝒍𝒘𝒂𝒚𝒔%20𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈%20𝒏𝒆𝒘%20𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔;&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 ### 🙋‍♂️ About Me
