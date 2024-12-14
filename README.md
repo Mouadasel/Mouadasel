@@ -11,7 +11,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 👨‍💻 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒊𝒏 𝑭𝒊𝒈𝒎𝒂, 𝑻𝒂𝒊𝒍𝒘𝒊𝒏𝒅 𝑪𝑺𝑺, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒆𝒏𝒉𝒂𝒏𝒄𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒖𝒔𝒆𝒓 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆𝒔.
+- 👨‍💻 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒊𝒏 𝑭𝒊𝒈𝒎𝒂, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒆𝒏𝒉𝒂𝒏𝒄𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒖𝒔𝒆𝒓 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆𝒔.
 
 - 💬 𝑺𝒌𝒊𝒍𝒍𝒆𝒅 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕, 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕, 𝒂𝒏𝒅 𝑷𝒓𝒐𝒃𝒍𝒆𝒎 𝑺𝒐𝒍𝒗𝒊𝒏𝒈. 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒊𝒏 𝒄𝒐𝒅𝒊𝒏𝒈 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒐𝒓 𝒓𝒆𝒍𝒂𝒕𝒆𝒅 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.
 
@@ -23,9 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouad-assel-b552a6244/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mouadassel3@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/212690691437)
-
 <br>
-
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -41,10 +39,8 @@
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=rest&logoColor=ffffff)
 <br>
 
-
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=ffffff)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat&logo=react&logoColor=ffffff)
@@ -57,7 +53,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
 <br>
 
